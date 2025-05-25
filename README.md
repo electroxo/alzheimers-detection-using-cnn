@@ -67,23 +67,6 @@ Each sample is categorized into stages of Alzheimer’s Disease (e.g., Non-Demen
 
 ---
 
-## 🖼️ Visual Results
-
-### 📈 Accuracy and Loss (Custom CNN)
-![Custom CNN Accuracy Loss](results/accuracy_loss_custom_cnn.png)
-
-### 📉 Confusion Matrix (Custom CNN)
-![Custom CNN Confusion Matrix](results/confusion_matrix_custom_cnn.png)
-
-### 🔁 More Models
-
-| Model            | Accuracy Plot                             | Confusion Matrix                        |
-|------------------|-------------------------------------------|----------------------------------------|
-| EfficientNet-B4  | ![](results/accuracy_loss_efficientnet.png) | ![](results/confusion_matrix_efficientnet.png) |
-| Ensemble Model   | ![](results/accuracy_loss_ensemble.png)     | ![](results/confusion_matrix_ensemble.png)     |
-| XGBoost          | ![](results/accuracy_loss_xgboost.png)      | ![](results/confusion_matrix_xgboost.png)      |
-
----
 
 ## 📷 Sample Outputs
 
